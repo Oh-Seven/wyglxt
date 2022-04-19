@@ -1,0 +1,11 @@
+.fd-header {
+    padding: unset !important;
+}
+.fd-index {
+    height: 100%;
+}
+.fd-main {
+    height: 85%;
+    margin-top: 40px;
+    background-color: #f6f6f6;
+}
