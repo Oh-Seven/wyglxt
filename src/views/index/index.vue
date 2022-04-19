@@ -24,6 +24,4 @@
 }
 @import url("./index.css");
 </style>
-git config --global user.name "Oh-Seven"
-git config --global user.email "875784926@qq.com"
 
